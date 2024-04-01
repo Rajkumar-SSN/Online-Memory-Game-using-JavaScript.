@@ -1,0 +1,89 @@
+html{height: 100%;}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(45deg,dodgerblue,white,rgb(241, 98, 241));
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-size: xxx-large;
+    text-align: center;
+    color: blueviolet;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+#timerDisplay{
+    margin-left: 20%;
+    display: inline;
+    color: brown;
+    font-size: x-large;
+}
+
+#moveCountDisplay{
+    margin-left: 43%;
+    display: inline;
+    color: brown;
+    font-size: x-large;
+}
+
+.game{
+    display: grid;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    grid-template-columns: repeat(4,120px);
+    grid-row-gap: 1em;
+    align-items: center;
+    justify-content: center;
+}
+
+#gameBoard div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.cardback{
+    background-color: #e5e5f7;
+    opacity: 0.8;
+    background-image: linear-gradient(135deg,orange,green);
+    background-position: 10px 0,10px 0,0 0,0 0;
+    background-size: 10px 10px;
+    background-repeat: repeat;
+}
+
+#gameBoard div:hover{cursor: pointer;}
+
+.resetButton{
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: large;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-left: 39%;
+}
+
+.startButton {
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: large;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+
+.resetButton:hover {background-color: rgb(165, 108, 226);}
+.startButton:hover {background-color: rgb(165, 108, 226);}
