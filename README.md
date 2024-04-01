@@ -18,7 +18,7 @@ Memory Game is a classic card matching game built with HTML, CSS, and JavaScript
 
 ## Demo
 
-You can play the Memory Game [here]([link_to_demo](https://github.com/Rajkumar-SSN/Online-Memory-Game-using-JavaScript./blob/7d547822ca6de33142676e68638bc407081a90a3/Demo.mp4)).
+You can play the Memory Game [here]([link_to_demo](https://github.com/Rajkumar-SSN/Online-Memory-Game-using-JavaScript./blob/7d547822ca6de33142676e68638bc407081a90a3/Demo.mp4))
 
 ## Features
 
