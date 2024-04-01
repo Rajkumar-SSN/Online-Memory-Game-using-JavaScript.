@@ -43,6 +43,7 @@ Memory Game is a classic card matching game built with HTML, CSS, and JavaScript
 ```bash
 git clone https://github.com/your_username/memory-game.git
 
+```
 2. Open `index.html` in your web browser.
 
 ## Contributing
