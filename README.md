@@ -9,16 +9,11 @@ Memory Game is a classic card matching game built with HTML, CSS, and JavaScript
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [How to Play](#how-to-play)
 - [Installation](#installation)
 - [Contributing](#contributing)
 
-
-## Demo
-
-You can play the Memory Game [here]
 ## Features
 
 - **Card Matching:** Flip over pairs of cards to find matching pairs.
