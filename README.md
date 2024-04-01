@@ -5,7 +5,7 @@ The Memory Game is a classic game designed to test and improve memory skills. Th
 
 Memory Game is a classic card matching game built with HTML, CSS, and JavaScript. Test your memory by flipping over pairs of cards and finding matching pairs!
 
-![Memory Game Screenshot.png](Memory Game Screenshot.png)
+![Memory Game Screenshot]([Memory Game Screenshot.png](https://github.com/Rajkumar-SSN/Online-Memory-Game-using-JavaScript./blob/e046346821ef425a5af9a51173b7645ea65766f2/Memory%20Game%20Screenshot.png))
 
 ## Table of Contents
 
